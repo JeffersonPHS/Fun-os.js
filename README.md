@@ -1,3 +1,6 @@
+# Tipos de Funções
+
+
 # Declaração de Função
 
 ## Descrição

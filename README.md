@@ -26,7 +26,7 @@ senha()
 ```
 ## Vantagem
 - Permite chamar antes da declaração da função por causa do hoisting.
-## Vantagem
+## Desvantagen
 - Não permite a atribuição diretamente na variável.
 
 

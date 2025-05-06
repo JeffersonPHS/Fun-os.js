@@ -30,7 +30,7 @@ senha()
 ## Vantagem
 - Permite chamar antes da declaração da função por causa do hoisting.
 ## Desvantagem
-- Não permite a atribuição diretamente na variável.
+- Não permite atribuição diretamente na variável.
 
 
 

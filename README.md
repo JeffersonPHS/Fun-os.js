@@ -11,19 +11,19 @@ A declaração de função é definida com a palavra-chave function, juntamente 
 ```javascript
 // Ex 1
 function inicio() {
-  // instruções
+  console.log("Começando...")
 }
 inicio()
 
 // Ex 2
 function total() {
-  // instruções
+  console.log("Calculando total...")
 }
 total()
 
 // Ex 3
 function senha() {
-  // instruções
+  console.log("Verificando senha...")
 }
 senha()
 ```

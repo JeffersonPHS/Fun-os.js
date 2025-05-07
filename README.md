@@ -57,7 +57,7 @@ console.log(`iniciando... ${inicio}`)
 let calcular = function (x, y) {
 return x + y;
 }
-console.log (`sua soma: ${calcular}`)
+console.log (`sua soma: ${calcular(4, 3)}`)
 ```
 
 ## Vantagem
@@ -81,7 +81,7 @@ let total = ( ) => console.log ("teste");
 total( )
 //Ex3
 soma = x => x+ x;
-console.log (`Seu valor: ${soma}`)
+console.log (`Seu valor: ${soma(5)}`)
 ```
 ## Vantagem
 A sintaxe é enxuta e fácil de entender.

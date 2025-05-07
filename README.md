@@ -44,15 +44,15 @@ A expressão de função se difere de uma declaração de função normal na for
 
 ```javascript
 //Ex1
-let antecao = function() {
-alert("olá");
+let atecao = function() {
+ console.log("olá");
 }
-
+atecao()
 //Ex2
 let inicio = function() {
-console.log(`iniciando... ${inicio}`)
+console.log(iniciando...)
 }
-
+inicio()
 //Ex3
 let calcular = function (x, y) {
 return x + y;
@@ -80,7 +80,7 @@ nome( );
 let total = ( ) => console.log ("teste");
 total( )
 //Ex3
-soma = x => x+ x;
+let soma = x => x+ x;
 console.log (`Seu valor: ${soma(5)}`)
 ```
 ## Vantagem
